@@ -1,4 +1,4 @@
-RSBot
+repo
 =====
 
-Scripts and things related to rsbot
+A repo
